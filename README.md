@@ -16,9 +16,9 @@ It will also include
 
 ## how to push to github
 
-echo "# test-repo" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:salsacalienemuy/test-repo.git
-git push -u origin master
+- echo "# test-repo" >> README.md
+- git init
+- git add README.md
+- git commit -m "first commit"
+- git remote add origin git@github.com:salsacalienemuy/test-repo.git
+- git push -u origin master
