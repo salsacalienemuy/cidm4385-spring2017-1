@@ -11,7 +11,7 @@ unitConverter.controller('UnitConverterController', [
 		ucc.lengthValue = 0;
 		
 
-		//cities to populate the drop-down box
+		//cities to populat the drop-down box
 		ucc.metric_volume_units = 
 		[
 			{
